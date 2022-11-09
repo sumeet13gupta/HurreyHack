@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marks Reader</title>
+    <style>
+        body {
+          margin: 0;
+        }
+  
+        .center {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 100vh;
+        }
+      </style>
+</head>
+<body>
+    <div class="center">
+        <h>Marks reading App : Upload the to page of checked answerSheets here !</h>
+
+        <form method="POST" action="/" enctype="multipart/form-data">
+            <input type="file" name="file">
+            <button>Submit</button>
+        </form>
+    </div>
+</body>
+</html>
