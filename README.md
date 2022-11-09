@@ -12,7 +12,7 @@ we can use the Azure Cognitive Services Computer vision Api - OCR Text recogniti
 
 
 # The idea :
-![alt][https://github.com/sumeet13gupta/HurreyHack/blob/main/Results/Figure_2.png]
+![alt](https://github.com/sumeet13gupta/HurreyHack/blob/main/Results/Figure_2.png)
 
 1. A Block will be drawn below the block containing string object with value = "Marks"  (The block shown with Light Blue coloe in the image)
         Length of this block = till the bottom of page 
