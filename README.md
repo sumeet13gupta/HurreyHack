@@ -6,6 +6,9 @@ question-wise marks obtained by the students in a class assessment. The teacher 
 be able to enter the marks in the most time and energy-efficient manner using the latest
 technologies like ML, DL, NLP, etc. using mobile or laptop.
 
+# Team[Individual] :
+Sumeet Gupta
+
 # The Approach :
 we can use the Azure Cognitive Services Computer vision Api - OCR Text recognition
 

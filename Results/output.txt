@@ -1,0 +1,404 @@
+{
+  "status": "running",
+  "createdDateTime": "2022-11-09T18:02:08Z",   
+  "lastUpdatedDateTime": "2022-11-09T18:02:08Z"
+}
+{
+  "status": "succeeded",
+  "createdDateTime": "2022-11-09T18:02:08Z",    
+  "lastUpdatedDateTime": "2022-11-09T18:02:09Z",
+  "analyzeResult": {
+    "version": "3.0.0",
+    "readResults": [
+      {
+        "page": 1,
+        "angle": 0,
+        "width": 983,
+        "height": 1280,
+        "unit": "pixel",
+        "lines": [
+          {
+            "boundingBox": [
+              64,
+              52,
+              909,
+              60,
+              909,
+              103,
+              63,
+              99
+            ],
+            "text": "INDIAN INSTITUTE OF TECHNOLOGY KANPUR",
+            "words": [
+              {
+                "boundingBox": [
+                  66,
+                  53,
+                  191,
+                  59,
+                  188,
+                  102,
+                  64,
+                  100
+                ],
+                "text": "INDIAN",
+                "confidence": 0.921
+              },
+              {
+                "boundingBox": [
+                  200,
+                  59,
+                  402,
+                  65,
+                  401,
+                  103,
+                  198,
+                  102
+                ],
+                "text": "INSTITUTE",
+                "confidence": 0.975
+              },
+              {
+                "boundingBox": [
+                  411,
+                  66,
+                  464,
+                  66,
+                  463,
+                  103,
+                  410,
+                  103
+                ],
+                "text": "OF",
+                "confidence": 0.988
+              },
+              {
+                "boundingBox": [
+                  474,
+                  67,
+                  735,
+                  68,
+                  735,
+                  103,
+                  472,
+                  103
+                ],
+                "text": "TECHNOLOGY",
+                "confidence": 0.98
+              },
+              {
+                "boundingBox": [
+                  744,
+                  68,
+                  909,
+                  65,
+                  909,
+                  102,
+                  744,
+                  103
+                ],
+                "text": "KANPUR",
+                "confidence": 0.985
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              191,
+              208,
+              252,
+              155,
+              275,
+              179,
+              212,
+              232
+            ],
+            "text": "1 5.00",
+            "words": [
+              {
+                "boundingBox": [
+                  191,
+                  207,
+                  207,
+                  192,
+                  229,
+                  218,
+                  212,
+                  233
+                ],
+                "text": "1",
+                "confidence": 0.559
+              },
+              {
+                "boundingBox": [
+                  212,
+                  188,
+                  252,
+                  155,
+                  274,
+                  180,
+                  234,
+                  214
+                ],
+                "text": "5.00",
+                "confidence": 0.559
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              755,
+              298,
+              908,
+              299,
+              908,
+              320,
+              755,
+              319
+            ],
+            "text": "Q. No. Marks",
+            "words": [
+              {
+                "boundingBox": [
+                  756,
+                  299,
+                  781,
+                  299,
+                  780,
+                  320,
+                  756,
+                  320
+                ],
+                "text": "Q.",
+                "confidence": 0.983
+              },
+              {
+                "boundingBox": [
+                  785,
+                  299,
+                  834,
+                  300,
+                  834,
+                  320,
+                  784,
+                  320
+                ],
+                "text": "No.",
+                "confidence": 0.985
+              },
+              {
+                "boundingBox": [
+                  841,
+                  300,
+                  909,
+                  300,
+                  909,
+                  320,
+                  840,
+                  320
+                ],
+                "text": "Marks",
+                "confidence": 0.986
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              56,
+              315,
+              656,
+              315,
+              656,
+              343,
+              56,
+              342
+            ],
+            "text": "NAME .Jume.ch ..... Cap.tra ....... ROLL NO. ... 1.9.2.8.73 ..........",
+            "words": [
+              {
+                "boundingBox": [
+                  57,
+                  318,
+                  121,
+                  317,
+                  121,
+                  343,
+                  58,
+                  342
+                ],
+                "text": "NAME",
+                "confidence": 0.985
+              },
+              {
+                "boundingBox": [
+                  126,
+                  317,
+                  204,
+                  316,
+                  205,
+                  343,
+                  126,
+                  343
+                ],
+                "text": ".Jume.ch",
+                "confidence": 0.562
+              },
+              {
+                "boundingBox": [
+                  209,
+                  316,
+                  233,
+                  316,
+                  233,
+                  343,
+                  209,
+                  343
+                ],
+                "text": ".....",
+                "confidence": 0.638
+              },
+              {
+                "boundingBox": [
+                  238,
+                  316,
+                  311,
+                  315,
+                  312,
+                  343,
+                  238,
+                  343
+                ],
+                "text": "Cap.tra",
+                "confidence": 0.492
+              },
+              {
+                "boundingBox": [
+                  316,
+                  315,
+                  362,
+                  316,
+                  363,
+                  343,
+                  316,
+                  343
+                ],
+                "text": ".......",
+                "confidence": 0.92
+              },
+              {
+                "boundingBox": [
+                  367,
+                  316,
+                  428,
+                  316,
+                  428,
+                  343,
+                  368,
+                  343
+                ],
+                "text": "ROLL",
+                "confidence": 0.985
+              },
+              {
+                "boundingBox": [
+                  433,
+                  316,
+                  473,
+                  316,
+                  473,
+                  343,
+                  433,
+                  343
+                ],
+                "text": "NO.",
+                "confidence": 0.984
+              },
+              {
+                "boundingBox": [
+                  477,
+                  316,
+                  493,
+                  317,
+                  494,
+                  343,
+                  478,
+                  343
+                ],
+                "text": "...",
+                "confidence": 0.926
+              },
+              {
+                "boundingBox": [
+                  498,
+                  317,
+                  583,
+                  318,
+                  583,
+                  343,
+                  499,
+                  343
+                ],
+                "text": "1.9.2.8.73",
+                "confidence": 0.638
+              },
+              {
+                "boundingBox": [
+                  588,
+                  318,
+                  655,
+                  320,
+                  655,
+                  342,
+                  588,
+                  343
+                ],
+                "text": "..........",
+                "confidence": 0.635
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              784,
+              359,
+              799,
+              360,
+              799,
+              379,
+              784,
+              378
+            ],
+            "text": "1",
+            "words": [
+              {
+                "boundingBox": [
+                  787,
+                  359,
+                  799,
+                  360,
+                  798,
+                  379,
+                  785,
+                  378
+                ],
+                "text": "1",
+                "confidence": 0.987
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              55,
+              399,
+              298,
+              400,
+              298,
+              423,
+              55,
+              423
+            ],
+            "text": "PROGRAMME ....... K.S ..",
+            "words": [
+[1.0, 2.0, 6.0, 3.0, 15.0, 4.0, 5.0, 20.0, 6.0, 7.0, 8.0, 9.0, 10.0]
+['INDIAN INSTITUTE OF TECHNOLOGY KANPUR', '1 5.00', 'Q. No. Marks', 'NAME .Jume.ch ..... Cap.tra ....... ROLL NO. ... 1.9.2.8.73 ..........', '1', 'PROGRAMME ....... K.S ..', 'SECTION', '2', '14 .5', '6', '3', '13 .5', 'COURSE NO. ...... S .......... 6.8 ..', '15', '4', 'COURSE TITLE .. do.sial ... Cognati.o .......', '5', '20', 'DATE ... 18 ... Q.1 .... R.e.23 ....', '6', '7', '8', '9', 'I PLEDGE THAT I SHALL NOT RESORT TO', 
+'UNFAIR MEANS DURING THE EXAMINATION', '10', 'Total', '....', 'Signature', '(16 Pages)']
